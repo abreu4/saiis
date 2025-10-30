@@ -32,13 +32,17 @@ disableKinds = ["taxonomy", "section"]
 ## -----------------------------------------------
 
 [Params]
-  description = "Mature your AI workflows with confidence. We help organizations evolve their AI infrastructure through maturity-focused strategies."
+  description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
   logo = "images/banner.jpg"
   favicon = true
 
 [Params.social]
-  email = "contact@aias.com"
+  github = "https://github.com/caressofsteel/"
+  twitter = "https://twitter.com/caressofsteel_"
+  email = "caressofsteel@protonmail.com"
+  instagram = "https://instagram.com" 
   linkedin = "https://linkedin.com"
+  telegram = "https://telegram.org"
 
 [Params.asset]
   fontawesome_css = ["css/fontawesome-all.min.css"]
