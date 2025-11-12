@@ -38,7 +38,7 @@ disableKinds = ["taxonomy", "section"]
 
 [Params.social]
   email = "hi@aias.com"
-  linkedin = "https://linkedin.com"
+  linkedin = "https://linkedin.com/company/aias-pt"
 
 [Params.asset]
   fontawesome_css = ["css/fontawesome-all.min.css"]
