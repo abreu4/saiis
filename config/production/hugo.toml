@@ -33,11 +33,11 @@ disableKinds = ["taxonomy", "section"]
 
 [Params]
   description = "Mature your AI workflows with confidence. We help organizations evolve their AI infrastructure through maturity-focused strategies."
-  logo = "images/banner.jpg"
+  logo = "images/banner2.jpg"
   favicon = true
 
 [Params.social]
-  email = "contact@aias.com"
+  email = "hi@aias.com"
   linkedin = "https://linkedin.com"
 
 [Params.asset]

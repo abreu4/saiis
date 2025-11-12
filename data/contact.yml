@@ -2,3 +2,6 @@
 title: "Get in Touch"
 content: |
   Ready to mature your AI infrastructure? We're here to help you navigate the complexities of AI development and achieve sustainable, measurable improvements.
+button:
+  label: "Contact Us"
+  link: "mailto:hi@aias.pt"
