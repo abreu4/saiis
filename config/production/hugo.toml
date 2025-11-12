@@ -9,16 +9,16 @@ copyright = "{year}"
 ## Publish
 ## -----------------------------------------------
 
-relativeURLs = "true"
-#canonifyURLs = "true"
+relativeURLs = "false"
+canonifyURLs = "true"
 
 # Local
-baseURL = "/"
-publishDir = "public"
+# baseURL = "/"
+# publishDir = "public"
 
-# Remote
-#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
-#publishDir = "//centos/sites/hugodev/hugostory/"
+# Remote (GitHub Pages)
+baseURL = "https://abreu4.github.io/saiis/"
+publishDir = "public"
 
 ## -----------------------------------------------
 ## Hugo Built-in Features
@@ -37,8 +37,8 @@ disableKinds = ["taxonomy", "section"]
   favicon = true
 
 [Params.social]
-  email = "hi@aias.com"
-  linkedin = "https://linkedin.com"
+  email = "hi@aias.pt"
+  linkedin = "https://linkedin.com/company/aias-pt"
 
 [Params.asset]
   fontawesome_css = ["css/fontawesome-all.min.css"]

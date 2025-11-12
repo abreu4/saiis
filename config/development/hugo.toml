@@ -37,7 +37,7 @@ disableKinds = ["taxonomy", "section"]
   favicon = true
 
 [Params.social]
-  email = "hi@aias.com"
+  email = "hi@aias.pt"
   linkedin = "https://linkedin.com/company/aias-pt"
 
 [Params.asset]
