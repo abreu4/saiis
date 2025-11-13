@@ -16,7 +16,7 @@ canonifyURLs = "true"
 # publishDir = "public"
 
 # Remote (GitHub Pages)
-baseURL = "https://abreu4.github.io/saiis/"
+baseURL = "https://aias.pt"
 publishDir = "public"
 
 

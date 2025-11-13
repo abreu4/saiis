@@ -17,7 +17,7 @@ canonifyURLs = "true"
 # publishDir = "public"
 
 # Remote (GitHub Pages with custom domain)
-baseURL = "https://aias.pt/"
+baseURL = "https://aias.pt"
 publishDir = "public"
 
 ## -----------------------------------------------
