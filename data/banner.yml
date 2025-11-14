@@ -7,7 +7,7 @@ content : |
   AI development is complex. New tools and frameworks emerge constantly, and the ecosystem evolves faster than most teams can keep up. Finding the right setup for your goals, team, and scale can be daunting.
   That's where we come in. <strong>We help organizations evolve their AI infrastructure</strong> — from research to training to production—through maturity-focused strategies, not disruptive overhauls. Building on top of your existing workflows, we help teams reach a healthier, more efficient AI development lifecycle—one iteration at a time.
 button:
-  label : "Get Started"
-  link : "#services"
+  label : "Book a Meeting"
+  link : "https://zcal.co/tiago/30min"
 image : "images/banner2.jpg"
 
