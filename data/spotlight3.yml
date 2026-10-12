@@ -3,7 +3,7 @@ style: "style1 orient-right content-align-left image-position-center onscroll-im
 id: "contact"
 title : "Get in Touch"
 content: |
-  Ready to mature your AI infrastructure? We're here to help you navigate the complexities of AI development and achieve sustainable, measurable improvements.
+  Tell us what slows your team down. We'll tell you honestly whether agents can help.
 button:
   label: "Contact Us"
   link: "mailto:hi@aias.pt"

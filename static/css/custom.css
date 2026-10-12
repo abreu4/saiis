@@ -1,0 +1,6 @@
+/* Banner subtitle stays on one line: theme size, shrunk only when the column is too narrow for it. */
+.banner .content { container-type: inline-size; }
+.banner .content p.major { white-space: nowrap; font-size: min(1.25rem, 4.7cqi); }
+@media screen and (max-width: 736px) {
+	.banner .content p.major { font-size: min(1.1rem, 4.7cqi); }
+}

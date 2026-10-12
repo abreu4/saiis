@@ -1,0 +1,20 @@
+id: "engagements"
+title : "Other Ways We Work"
+content: |
+  When you need senior experience, not a full programme.
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "Fractional CTO"
+    content : "Part-time technical leadership: architecture, hiring and AI strategy"
+    style : "solid style2 major fa-user-tie"
+
+  # feature item loop
+  - name : "Agentic Engineering"
+    content : "Coding agents for your software team, with guardrails and metrics"
+    style : "solid style2 major fa-laptop-code"
+
+  # feature item loop
+  - name : "Advisory"
+    content : "Due diligence and second opinions on AI plans and vendors"
+    style : "solid style2 major fa-balance-scale"

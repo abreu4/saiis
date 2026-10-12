@@ -1,26 +1,26 @@
 id: "services"
-title : "Our Services"
+title : "What We Do"
 content: |
-  We build on top of your existing workflows, pushing them to maturity iteratively. Starting with high-return, low-effort improvements and progressively addressing more complex challenges—one step at a time.
+  Start small, prove it with numbers, then scale.
 style: "style1 big onscroll-fade-in"
 items:
   # feature item loop
-  - name : "Audit"
-    content : "Map your current AI development stack, identify opportunities and define goals"
+  - name : "Assess"
+    content : "Find where agents pay off, ranked by impact and risk"
     style : "solid style2 major fa-search"
 
   # feature item loop
-  - name : "Architect"
-    content : "Design a phased, custom-tailored transformation roadmap"
+  - name : "Roadmap"
+    content : "A phased plan with budget, governance and success metrics"
     style : "solid style2 major fa-drafting-compass"
 
   # feature item loop
-  - name : "Execute"
-    content : "Build and integrate solutions with continuous validation"
+  - name : "Pilot"
+    content : "One agentic workflow, live and measured against today's numbers"
     style : "solid style2 major fa-cogs"
 
   # feature item loop
-  - name : "Empower"
-    content : "Drive adoption through training and sustained support"
+  - name : "Enable"
+    content : "Team training, oversight and EU AI Act readiness"
     style : "solid style2 major fa-users"
     

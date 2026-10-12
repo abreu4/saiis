@@ -2,10 +2,11 @@
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
 title : "AIAS"
 subtitle: |
-  Mature your AI workflows with confidence.
+  Put AI agents to work, one measured step at a time.
 content : |
-  AI development is complex. New tools and frameworks emerge constantly, and the ecosystem evolves faster than most teams can keep up. Finding the right setup for your goals, team, and scale can be daunting.
-  That's where we come in. <strong>We help organizations evolve their AI infrastructure</strong> — from research to training to production—through maturity-focused strategies, not disruptive overhauls. Building on top of your existing workflows, we help teams reach a healthier, more efficient AI development lifecycle—one iteration at a time.
+  AI agents can now do real work.<br>
+  <strong>We help organisations adopt them safely</strong>:<br>
+  find where they pay off, prove it with a pilot, and train your team to run them. No big-bang projects, no vendor lock-in.
 button:
   label : "Book a Meeting"
   link : "https://zcal.co/tiago/30min"

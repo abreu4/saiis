@@ -32,7 +32,7 @@ disableKinds = ["taxonomy", "section"]
 ## -----------------------------------------------
 
 [Params]
-  description = "Mature your AI workflows with confidence. We help organizations evolve their AI infrastructure through maturity-focused strategies."
+  description = "AIAS helps organisations in Portugal and Europe adopt agentic AI: opportunity assessment, adoption roadmaps, measured pilots, team enablement and fractional CTO support."
   logo = "images/banner2.jpg"
   favicon = true
 
